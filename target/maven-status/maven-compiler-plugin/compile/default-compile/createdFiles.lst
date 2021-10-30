@@ -1,0 +1,14 @@
+br\com\alura\spring\data\repository\FuncionarioRepository.class
+br\com\alura\spring\data\orm\Cargo.class
+br\com\alura\spring\data\repository\UnidadeTrabalhoRepository.class
+br\com\alura\spring\data\orm\FuncionarioProjecao.class
+br\com\alura\spring\data\service\RelatoriosService.class
+br\com\alura\spring\data\orm\UnidadeTrabalho.class
+br\com\alura\spring\data\repository\CargoRepository.class
+br\com\alura\spring\data\orm\Funcionario.class
+br\com\alura\spring\data\service\CrudFuncionarioService.class
+br\com\alura\spring\data\service\CrudCargoService.class
+br\com\alura\spring\data\service\CrudUnidadeTrabalhoService.class
+br\com\alura\spring\data\specification\SpecificationFuncionario.class
+br\com\alura\spring\data\service\RelatorioFuncionarioDinamico.class
+br\com\alura\spring\data\SpringDataApplication.class
